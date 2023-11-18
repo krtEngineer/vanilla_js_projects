@@ -10,5 +10,10 @@
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/counter
 
 2. **Reviews**
+
    - Live demo: https://krt-reviews.netlify.app/
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/reviews
+
+3. **Questions**
+   - Live demo: https://krt-questions.netlify.app/
+   - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/questions
