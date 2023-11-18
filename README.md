@@ -20,5 +20,10 @@
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/questions
 
 4. **Color Flipper**
+
    - Live demo: https://krt-color-flipper.netlify.app/
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/color_flipper
+
+5. **Navbar**
+   - Live demo: https://krt-navbar.netlify.app/
+   - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/navbar
