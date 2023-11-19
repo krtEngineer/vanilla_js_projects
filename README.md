@@ -40,5 +40,10 @@
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/modal
 
 8. **Menu**
+
    - Live demo: https://krt-menu.netlify.app/
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/menu
+
+9. **Task Manager**
+   - Live demo: https://krt-task-manager.netlify.app/
+   - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/task_manager
