@@ -35,5 +35,10 @@
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/sidebar
 
 7. **Modal**
+
    - Live demo: https://krt-modal.netlify.app/
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/modal
+
+8. **Menu**
+   - Live demo: https://krt-menu.netlify.app/
+   - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/menu
