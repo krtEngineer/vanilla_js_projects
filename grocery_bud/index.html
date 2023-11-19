@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Grocery Bud</title>
+    <!-- font awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+    <!-- normalize css -->
+    <link rel="stylesheet" href="./css/normalize.css" />
+    <!-- main css -->
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+    <!-- container -->
+    <div class="container">
+      <h2>grocery bud</h2>
+      <div class="create-item-form">
+        <input
+          type="text"
+          placeholder="e.g. bhindi"
+          id="grocery_name"
+          name="grocery_name"
+        />
+        <button type="submit" class="btn">submit</button>
+      </div>
+      <!-- grocery items list -->
+      <ul class="grocery-list">
+        <!-- grocery item -->
+        <div class="grocery-item">
+          <h5>oranges</h5>
+          <!-- grocery links -->
+          <div class="grocery-links">
+            <!-- edit link -->
+            <a href="index.html" class="edit-link">
+              <i class="fas fa-edit"></i>
+            </a>
+            <!-- delete btn -->
+            <button type="button" class="delete-btn" data-id="123">
+              <i class="fas fa-trash"></i>
+            </button>
+          </div>
+        </div>
+        <!-- end of grocery item -->
+
+        <!-- grocery item -->
+        <div class="grocery-item">
+          <h5>apples</h5>
+          <!-- grocery links -->
+          <div class="grocery-links">
+            <!-- edit link -->
+            <a href="index.html" class="edit-link">
+              <i class="fas fa-edit"></i>
+            </a>
+            <!-- delete btn -->
+            <button type="button" class="delete-btn" data-id="123">
+              <i class="fas fa-trash"></i>
+            </button>
+          </div>
+        </div>
+        <!-- end of grocery item -->
+      </ul>
+      <!-- clear button -->
+      <a href="#" class="clear-btn">
+        <button class="btn">clear items</button>
+      </a>
+    </div>
+  </body>
+</html>
