@@ -45,5 +45,11 @@
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/menu
 
 9. **Task Manager**
+
    - Live demo: https://krt-task-manager.netlify.app/
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/task_manager
+
+10. **Grocery Bud**
+
+    - Live demo: https://krt-grocery-bud.netlify.app/
+    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/grocery_bud
