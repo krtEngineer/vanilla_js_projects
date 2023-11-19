@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Task</title>
+    <!-- font awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+    <!-- normalize css -->
+    <link rel="stylesheet" href="./css/normalize.css" />
+    <!-- main css -->
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="task-editor">
+        <h3>edit task</h3>
+        <!-- form -->
+        <form action="#" class="task-editor-form">
+          <label for="task_id">task ID</label>
+          <span>12345678</span>
+          <!-- <br /> -->
+          <label for="task_name">name</label>
+          <input
+            type="text"
+            id="task_name"
+            name="task_name"
+            value="read books"
+          />
+          <!-- <br /> -->
+          <label for="completed">completed</label>
+          <input
+            type="checkbox"
+            id="completed"
+            name="completed"
+            value="completed"
+          />
+        </form>
+
+        <button class="btn update-btn" type="submit">update</button>
+      </div>
+      <a href="./index.html" class="back-btn-link"
+        ><button class="btn back-btn">back to tasks</button></a
+      >
+    </div>
+  </body>
+</html>
