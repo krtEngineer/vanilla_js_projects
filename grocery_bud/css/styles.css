@@ -271,6 +271,7 @@ Project specific styles
   margin-top: 8rem;
   padding: 2rem 3rem;
   border-radius: var(--borderRadius);
+  max-width: 700px;
 }
 
 .container h2 {
@@ -307,6 +308,7 @@ Project specific styles
   background: transparent;
   border: transparent;
   font-size: 0.9rem;
+  cursor: pointer;
 }
 
 .create-item-form {
@@ -342,4 +344,8 @@ Project specific styles
 .container a button {
   background: transparent;
   color: var(--red-dark);
+}
+
+.container a button:hover {
+  background: transparent;
 }
