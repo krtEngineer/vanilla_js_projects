@@ -291,6 +291,10 @@ Project specific styles
   margin: 0.75rem;
 }
 
+.color-options a {
+  color: var(--black);
+}
+
 .container {
   /* margin: 0 auto; */
   margin-top: 10rem;
