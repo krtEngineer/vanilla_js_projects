@@ -24,12 +24,12 @@
    - Live demo: https://krt-color-flipper.netlify.app/
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/color_flipper
 
-5. **Navbar**
+5. **Navbar** :white_check_mark:
 
    - Live demo: https://krt-navbar.netlify.app/
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/navbar
 
-6. **Sidebar**
+6. **Sidebar** :white_check_mark:
 
    - Live demo: https://krt-sidebar.netlify.app/
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/sidebar
