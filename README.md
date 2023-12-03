@@ -39,7 +39,7 @@
    - Live demo: https://krt-modal.netlify.app/
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/modal
 
-8. **Menu**
+8. **Menu** :white_check_mark:
 
    - Live demo: https://krt-menu.netlify.app/
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/menu
