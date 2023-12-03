@@ -14,7 +14,7 @@
    - Live demo: https://krt-reviews.netlify.app/
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/reviews
 
-3. **Questions**
+3. **Questions** :white_check_mark:
 
    - Live demo: https://krt-questions.netlify.app/
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/questions
