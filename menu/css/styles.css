@@ -362,3 +362,7 @@ Project specific styles
     max-width: 90rem;
   }
 }
+
+.hide {
+  display: none;
+}
