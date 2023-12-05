@@ -53,3 +53,15 @@
 
     - Live demo: https://krt-grocery-bud.netlify.app/
     - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/grocery_bud
+
+11. Video
+
+12. Scroll
+
+13. Smooth Scroll
+
+14. Tabs
+
+15. Countdown
+
+16. Slider
