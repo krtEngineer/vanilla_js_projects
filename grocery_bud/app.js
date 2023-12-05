@@ -7,6 +7,7 @@ let updateBtns = document.querySelectorAll(".edit-btn");
 
 groceryInput.value = "";
 groceryItems.replaceChildren();
+toggleClrBtn();
 
 let selectedGroceryItem;
 
@@ -16,6 +17,7 @@ deleteBtns.forEach(function (deleteBtn) {
 
 clearBtn.addEventListener("click", function (e) {
   groceryItems.replaceChildren();
+  toggleClrBtn();
 });
 
 submitBtn.addEventListener("click", function (e) {
@@ -52,6 +54,7 @@ submitBtn.addEventListener("click", function (e) {
       submitBtn.textContent = "submit";
     }
     groceryInput.value = "";
+    toggleClrBtn();
   }
 });
 
@@ -65,6 +68,7 @@ function deleteEventListener(e) {
     groceryInput.value = "";
     submitBtn.textContent = "submit";
   }
+  toggleClrBtn();
 }
 
 function editEventListener(e) {
@@ -72,6 +76,7 @@ function editEventListener(e) {
   groceryInput.value = groceryItem.children[0].textContent;
   submitBtn.textContent = "update";
   selectedGroceryItem = groceryItem;
+  toggleClrBtn();
 }
 
 groceryInput.addEventListener("keypress", function (e) {
@@ -80,3 +85,11 @@ groceryInput.addEventListener("keypress", function (e) {
     submitBtn.click();
   }
 });
+
+function toggleClrBtn() {
+  if (groceryItems.childNodes.length === 0) {
+    clearBtn.style.display = "none";
+  } else {
+    clearBtn.style.display = "flex";
+  }
+}
