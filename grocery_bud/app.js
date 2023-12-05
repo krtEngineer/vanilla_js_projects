@@ -17,6 +17,8 @@ deleteBtns.forEach(function (deleteBtn) {
 
 clearBtn.addEventListener("click", function (e) {
   groceryItems.replaceChildren();
+  groceryInput.value = "";
+  submitBtn.textContent = "submit";
   toggleClrBtn();
 });
 
