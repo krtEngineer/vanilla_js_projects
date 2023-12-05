@@ -76,6 +76,7 @@ function editEventListener(e) {
   groceryInput.value = groceryItem.children[0].textContent;
   submitBtn.textContent = "update";
   selectedGroceryItem = groceryItem;
+  groceryInput.focus();
   toggleClrBtn();
 }
 
