@@ -73,3 +73,10 @@ function editEventListener(e) {
   submitBtn.textContent = "update";
   selectedGroceryItem = groceryItem;
 }
+
+groceryInput.addEventListener("keypress", function (e) {
+  if (e.key === "Enter") {
+    e.preventDefault();
+    submitBtn.click();
+  }
+});
