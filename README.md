@@ -58,10 +58,8 @@
 
 12. Scroll
 
-13. Smooth Scroll
+13. Tabs
 
-14. Tabs
+14. Countdown
 
-15. Countdown
-
-16. Slider
+15. Slider
