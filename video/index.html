@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Video</title>
+    <link rel="stylesheet" href="./css/normalize.css" />
+    <link rel="stylesheet" href="./css/styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <!-- preloader -->
+    <div class="preloader">
+      <img src="./resources/preloader.gif" alt="preloader" />
+    </div>
+    <!-- header -->
+    <header>
+      <video class="video-container" autoplay>
+        <source src="./resources/video_sample.mp4" type="video/mp4" />
+      </video>
+      <h1>video project</h1>
+      <!-- play button -->
+      <div class="icon-container hide-icon">
+        <i class="fa icon"></i>
+      </div>
+      <!-- fas fa-redo => replay icon -->
+      <!-- fa-pause-circle => pause icon-->
+      <!-- fa-play-circle => play icon-->
+    </header>
+    <!-- javascript -->
+    <script src="app.js"></script>
+  </body>
+</html>
