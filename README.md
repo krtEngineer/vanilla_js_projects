@@ -61,7 +61,10 @@
 
 12. Scroll
 
-13. Tabs
+13. Tabs :white_check_mark:
+
+    - Live Demo: https://krt-tabs.netlify.app/
+    - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/tabs
 
 14. Countdown
 
