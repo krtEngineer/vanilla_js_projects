@@ -301,7 +301,7 @@ body {
   font-weight: 450;
 }
 
-.txt-container h4 {
+.msg {
   margin-bottom: 3rem;
   color: var(--black);
   text-transform: capitalize;
@@ -347,4 +347,8 @@ body {
     grid-template-columns: 1fr 1fr;
     column-gap: 1rem;
   }
+}
+
+.expired {
+  color: red;
 }
