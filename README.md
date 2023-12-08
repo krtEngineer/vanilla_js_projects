@@ -54,7 +54,10 @@
     - Live demo: https://krt-grocery-bud.netlify.app/
     - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/grocery_bud
 
-11. Video
+11. **Video**
+
+    - Live Demo: https://krt-video.netlify.app/
+    - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/video
 
 12. Scroll
 
