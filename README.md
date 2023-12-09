@@ -72,3 +72,6 @@
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/countdown
 
 15. Slider
+
+    - Live Demo: https://krt-slider.netlify.app/
+    - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/slider
