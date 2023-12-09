@@ -359,7 +359,7 @@ task create and list page styling
   font-size: 0.75rem;
 }
 
-.task-links a {
+.edit-btn i {
   color: green;
 }
 
