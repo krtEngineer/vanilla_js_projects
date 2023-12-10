@@ -44,7 +44,7 @@
    - Live demo: https://krt-menu.netlify.app/
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/menu
 
-9. **Task Manager**
+9. **Task Manager** :white_check_mark:
 
    - Live demo: https://krt-task-manager.netlify.app/
    - Source code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/task_manager
