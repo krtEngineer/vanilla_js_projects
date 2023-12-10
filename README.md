@@ -59,22 +59,22 @@
     - Live Demo: https://krt-video.netlify.app/
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/video
 
-12. Scroll
+12. **Scroll** :white_check_mark:
 
     - Live Demo: https://krt-scroll.netlify.app/
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/scroll
 
-13. Tabs :white_check_mark:
+13. **Tabs** :white_check_mark:
 
     - Live Demo: https://krt-tabs.netlify.app/
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/tabs
 
-14. Countdown :white_check_mark:
+14. **Countdown** :white_check_mark:
 
     - Live Demo: https://krt-countdown.netlify.app/
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/countdown
 
-15. Slider :white_check_mark:
+15. **Slider** :white_check_mark:
 
     - Live Demo: https://krt-slider.netlify.app/
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/slider
