@@ -78,3 +78,16 @@
 
     - Live Demo: https://krt-slider.netlify.app/
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/slider
+
+16. **Counter OOP Concept** :white_check_mark:
+
+    - Live Demo: https://krt-counter-oop.netlify.app/
+    - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/counter_oops
+
+17. **Gallery** :white_check_mark:
+
+    - Live Demo: https://krt-gallery.netlify.app/
+    - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/gallery
+
+    
+
