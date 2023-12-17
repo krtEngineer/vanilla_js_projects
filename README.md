@@ -89,5 +89,11 @@
     - Live Demo: https://krt-gallery.netlify.app/
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/gallery
 
+18. **Numbers** :white_check_mark:
+
+    - Live Demo: https://krt-numbers.netlify.app/
+    - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/numbers
+
+    
     
 
