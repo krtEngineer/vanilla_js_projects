@@ -94,6 +94,10 @@
     - Live Demo: https://krt-numbers.netlify.app/
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/numbers
 
-    
+19. **Filters**
+
+    - Live Demo: 
+    - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/filters
+
     
 
