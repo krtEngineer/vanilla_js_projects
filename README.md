@@ -96,8 +96,10 @@
 
 19. **Filters**
 
-    - Live Demo: 
+    - Live Demo:
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/filters
 
-    
+20. **Dad Jokes**
 
+    - Live Demo: https://krt-dad-jokes.netlify.app/
+    - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/dad_jokes
