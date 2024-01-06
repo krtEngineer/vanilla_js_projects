@@ -94,9 +94,9 @@
     - Live Demo: https://krt-numbers.netlify.app/
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/numbers
 
-19. **Filters**
+19. **Filters** :white_check_mark:
 
-    - Live Demo:
+    - Live Demo: https://krt-filters.netlify.app/
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/filters
 
 20. **Dad Jokes** :white_check_mark:
