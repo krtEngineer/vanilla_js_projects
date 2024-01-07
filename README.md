@@ -108,3 +108,8 @@
 
     - Live Demo: https://krt-products.netlify.app/
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/products
+
+22. **Random User** :white_check_mark:
+
+    - Live Demo: https://krt-random-user.netlify.app/
+    - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/random_user
