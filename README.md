@@ -103,3 +103,8 @@
 
     - Live Demo: https://krt-dad-jokes.netlify.app/
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/dad_jokes
+
+21. **Products** :white_check_mark:
+
+    - Live Demo: https://krt-products.netlify.app/
+    - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/products
