@@ -113,3 +113,8 @@
 
     - Live Demo: https://krt-random-user.netlify.app/
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/random_user
+
+23. **Cocktails** :white_check_mark:
+
+    - Live Demo: https://krt-cocktails.netlify.app/
+    - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/cocktails
