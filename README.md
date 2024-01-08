@@ -118,3 +118,13 @@
 
     - Live Demo: https://krt-cocktails.netlify.app/
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/cocktails
+
+24. **second_slider**
+
+    - Live Demo:
+    - Source Code: https://github.com/krtEngineer/vanilla_js_projects/tree/master/second_slider
+
+25. **Stripe Submenus**
+
+    - Live Demo:
+    - Source Code: https://github.com/krtEngineer/vanilla_js_projects/tree/master/stripe_submenus
