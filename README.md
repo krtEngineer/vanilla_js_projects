@@ -128,3 +128,8 @@
 
     - Live Demo:
     - Source Code: https://github.com/krtEngineer/vanilla_js_projects/tree/master/stripe_submenus
+
+26. **Pagination**
+
+    - Live Demo:
+    - Source Code: https://github.com/krtEngineer/vanilla_js_projects/tree/master/pagination
