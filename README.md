@@ -133,3 +133,8 @@
 
     - Live Demo:
     - Source Code: https://github.com/krtEngineer/vanilla_js_projects/tree/master/pagination
+
+27. **Wikipedia**
+
+    - Live Demo:
+    - Source Code: https://github.com/krtEngineer/vanilla_js_projects/tree/master/wikipedia
