@@ -138,3 +138,8 @@
 
     - Live Demo:
     - Source Code: https://github.com/krtEngineer/vanilla_js_projects/tree/master/wikipedia
+
+28. **Furniture Store**
+
+    - Live Demo:
+    - Source Code: https://github.com/krtEngineer/vanilla_js_projects/tree/master/furniture_store
