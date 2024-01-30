@@ -119,9 +119,9 @@
     - Live Demo: https://krt-cocktails.netlify.app/
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/cocktails
 
-24. **second_slider**
+24. **Second_slider** :white_check_mark:
 
-    - Live Demo:
+    - Live Demo: https://krt-second-slider.netlify.app/
     - Source Code: https://github.com/krtEngineer/vanilla_js_projects/tree/master/second_slider
 
 25. **Stripe Submenus**
