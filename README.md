@@ -124,9 +124,9 @@
     - Live Demo: https://krt-second-slider.netlify.app/
     - Source Code: https://github.com/krtEngineer/vanilla_js_projects/tree/master/second_slider
 
-25. **Stripe Submenus**
+25. **Stripe Submenus** :white_check_mark:
 
-    - Live Demo:
+    - Live Demo: https://krt-stripe-submenus.netlify.app/
     - Source Code: https://github.com/krtEngineer/vanilla_js_projects/tree/master/stripe_submenus
 
 26. **Pagination**
