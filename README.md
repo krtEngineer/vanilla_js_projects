@@ -141,5 +141,5 @@
 
 28. **Furniture Store** :white_check_mark:
 
-    - Live Demo: https://krt-furniture-store.netlify.app/products
+    - Live Demo: https://krt-furniture-store.netlify.app/
     - Source Code: https://github.com/krtEngineer/vanilla_js_projects/tree/master/furniture_store
