@@ -119,27 +119,27 @@
     - Live Demo: https://krt-cocktails.netlify.app/
     - Source Code: https://github.com/krtEngineer/front_end_mini_projects/tree/master/cocktails
 
-24. **second_slider**
+24. **Second_slider** :white_check_mark:
 
-    - Live Demo:
+    - Live Demo: https://krt-second-slider.netlify.app/
     - Source Code: https://github.com/krtEngineer/vanilla_js_projects/tree/master/second_slider
 
-25. **Stripe Submenus**
+25. **Stripe Submenus** :white_check_mark:
 
-    - Live Demo:
+    - Live Demo: https://krt-stripe-submenus.netlify.app/
     - Source Code: https://github.com/krtEngineer/vanilla_js_projects/tree/master/stripe_submenus
 
-26. **Pagination**
+26. **Pagination** :white_check_mark:
 
-    - Live Demo:
+    - Live Demo: https://krt-pagination.netlify.app/
     - Source Code: https://github.com/krtEngineer/vanilla_js_projects/tree/master/pagination
 
-27. **Wikipedia**
+27. **Wikipedia** :white_check_mark:
 
-    - Live Demo:
+    - Live Demo: https://krt-wikipedia.netlify.app/
     - Source Code: https://github.com/krtEngineer/vanilla_js_projects/tree/master/wikipedia
 
-28. **Furniture Store**
+28. **Furniture Store** :white_check_mark:
 
-    - Live Demo:
+    - Live Demo: https://krt-furniture-store.netlify.app/
     - Source Code: https://github.com/krtEngineer/vanilla_js_projects/tree/master/furniture_store
