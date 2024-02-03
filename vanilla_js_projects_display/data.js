@@ -181,14 +181,6 @@ export const projects = [
     status: 1,
   },
   {
-    id: 19,
-    name: "filters",
-    demo: "https://krt-filters.netlify.app/",
-    code: "https://github.com/krtEngineer/front_end_mini_projects/tree/master/filters",
-    img: img_19,
-    status: 1,
-  },
-  {
     id: 20,
     name: "dad jokes",
     demo: "https://krt-dad-jokes.netlify.app/",
@@ -210,14 +202,6 @@ export const projects = [
     demo: "https://krt-random-user.netlify.app/",
     code: "https://github.com/krtEngineer/front_end_mini_projects/tree/master/random_user",
     img: img_22,
-    status: 1,
-  },
-  {
-    id: 23,
-    name: "cocktails",
-    demo: "https://krt-cocktails.netlify.app/",
-    code: "https://github.com/krtEngineer/front_end_mini_projects/tree/master/cocktails",
-    img: img_23,
     status: 1,
   },
   {
